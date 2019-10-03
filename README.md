@@ -5,14 +5,7 @@ It's an Car Detection for self-Driving cars using raspberry pi
 **DEMO VIDEO**
 
 
-1:https://www.youtube.com/watch?v=kS_k5pweA3E&t=2s 
-
-
-2:https://www.youtube.com/watch?v=nuMGgv2DAFU
-
-
-3:https://www.youtube.com/watch?v=HJQ8RWY5OMg&t=1s
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zlKkUIuDIFs/0.jpg)](https://www.youtube.com/watch?v=zlKkUIuDIFs)
 
 Prerequsites:
 
